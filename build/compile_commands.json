@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/cyberminer/robogame/build",
+  "command": "/usr/bin/clang++  -I/home/cyberminer/robogame/source/Inc -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/cyberminer.dir/launch.cpp.o -c /home/cyberminer/robogame/launch.cpp",
+  "file": "/home/cyberminer/robogame/launch.cpp"
+},
+{
+  "directory": "/home/cyberminer/robogame/build",
+  "command": "/usr/bin/clang++  -I/home/cyberminer/robogame/source/Inc -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/cyberminer.dir/source/Src/white_balance.cpp.o -c /home/cyberminer/robogame/source/Src/white_balance.cpp",
+  "file": "/home/cyberminer/robogame/source/Src/white_balance.cpp"
+},
+{
+  "directory": "/home/cyberminer/robogame/build",
+  "command": "/usr/bin/clang++  -I/home/cyberminer/robogame/source/Inc -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/cyberminer.dir/source/Src/serial_connect.cpp.o -c /home/cyberminer/robogame/source/Src/serial_connect.cpp",
+  "file": "/home/cyberminer/robogame/source/Src/serial_connect.cpp"
+},
+{
+  "directory": "/home/cyberminer/robogame/build",
+  "command": "/usr/bin/clang++  -I/home/cyberminer/robogame/source/Inc -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/cyberminer.dir/source/Src/detect_color.cpp.o -c /home/cyberminer/robogame/source/Src/detect_color.cpp",
+  "file": "/home/cyberminer/robogame/source/Src/detect_color.cpp"
+},
+{
+  "directory": "/home/cyberminer/robogame/build",
+  "command": "/usr/bin/clang++  -I/home/cyberminer/robogame/source/Inc -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/cyberminer.dir/source/Src/ranging.cpp.o -c /home/cyberminer/robogame/source/Src/ranging.cpp",
+  "file": "/home/cyberminer/robogame/source/Src/ranging.cpp"
+}
+]

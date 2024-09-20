@@ -1,0 +1,4 @@
+/home/cyberminer/robogame/build/CMakeFiles/rebuild_cache.dir
+/home/cyberminer/robogame/build/CMakeFiles/cyberminer.dir
+/home/cyberminer/robogame/build/CMakeFiles/edit_cache.dir
+/home/cyberminer/robogame/build/CMakeFiles/libs.dir
